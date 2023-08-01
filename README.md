@@ -17,8 +17,10 @@ With TFIDF Logistic Regression gives best recall of  = 0.90
 
 With Word2Vec Logistic Regression gives best recall of  = 0.88
 
-Embedding layer with pretrained glove vectors(MLP) = 0.75 (Overfitting)
+Embedding layer with pretrained glove vectors(MLP) recall = 0.75 (Overfitting)
 
-Embedding layer with pretrained glove vectors(CNN) = 0.85 (Overfitting)
+Embedding layer with pretrained glove vectors(CNN) recall  = 0.85 (Overfitting)
 
-Embedding layer with pretrained glove vectors(LSTM) = 0.86 (Overfitting)
+Embedding layer with pretrained glove vectors(LSTM) recall  = 0.85 (Overfitting)
+
+Embedding layer with pretrained glove vectors(LSTM) = 0.88
